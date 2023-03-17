@@ -1,1 +1,10 @@
 @import '~node_modules/modern-normalize/modern-normalize.css';
+
+.container {
+  margin: 20 auto;
+  padding: 0 15px;
+  max-width: 1200px;
+}
+.country-list {
+  list-style: none;
+}
